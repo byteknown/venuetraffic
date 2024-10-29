@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Moonhell",
+        "Name": "VenueTraff",
+        "Description": "Black Jack free Plugin",
+        "InternalName": "VenueTraff",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/byteknown/DLBlackJack",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/DLBlackJack/raw/main/DLGamba/latest.zip",
+        "LastUpdated": "08112023"
+    }
+
+]
