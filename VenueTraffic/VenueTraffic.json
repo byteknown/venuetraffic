@@ -1,15 +1,14 @@
 {
   "Author": "Moonhell",
-  "Name": "Venue Traffic",
+  "Name": "VenueTraffic",
   "InternalName": "VenueTraffic",
   "AssemblyVersion": "1.0.0.1",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "traffic for your venue",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ],
+            "minigames",
+            "discord"
+        ],
   "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
