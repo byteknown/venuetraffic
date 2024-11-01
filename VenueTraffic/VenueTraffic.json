@@ -2,7 +2,7 @@
   "Author": "Moonhell",
   "Name": "VenueTraffic",
   "InternalName": "VenueTraffic",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "3.0.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
