@@ -4,7 +4,7 @@
         "Name": "VenueTraffic",
         "Description": "traffic for your venue",
         "InternalName": "VenueTraffic",
-        "AssemblyVersion": "2.0.0.2",
+        "AssemblyVersion": "2.0.0.3",
         "RepoUrl": "https://github.com/byteknown/venuetraffic",
         "ApplicableVersion": "any",
         "Tags": [
